@@ -12,7 +12,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Terms from "./pages/Terms";
 import Mint from "./pages/Mint";
-import CommunityCollection from "./pages/CommunityCollection";
+import UpcomingCollections from "./pages/UpcomingCollections";
 import CommunityWallet from "./pages/CommunityWallet";
 
 
@@ -52,8 +52,8 @@ function App() {
           <Route path="/mint">
             <Mint />
           </Route>
-          <Route path="/communitycollection">
-            <CommunityCollection />
+          <Route path="/UpcomingCollections">
+            <UpcomingCollections />
           </Route>
           <Route path="/" exact>
             <Home />

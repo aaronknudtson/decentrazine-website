@@ -107,8 +107,8 @@ const LINKS = [
     name: "Community Wallet",
   },
   {
-    path: "/communitycollection",
-    name: "Community Collection",
+    path: "/upcomingcollections",
+    name: "Upcoming Collections",
   },
 ];
 

@@ -56,38 +56,23 @@ const FAQ: React.FC = () => {
         <PageTitle>FAQ</PageTitle>
 
         <FAQContainer>
-          <h2>What is Decentrazine?</h2>
+          <h2>What is a Decentrazine?</h2>
           <p>
-            A Decentrazine is a piece of zineart that is randomly generated
-            using pre-created traits. However, Decentrazines double as an "entry
-            ticket" of sorts to the larger Decentrazine Project. Without a
-            Decentrazine, you won't be able to participate in the future drops
-            and activities from the project. Additionally, its just a pretty
-            cool piece of art you can hang in your home or put up on a street
-            corner.
+          A Decentrazine is a piece of zineart that is randomly generated using pre-created traits. However, Decentrazines double as an "entry ticket" of sorts to the larger Decentrazine Project. Without a Decentrazine, you won't be able to participate in the future drops and activities from the project. Additionally, its just a pretty cool piece of art you can hang in your home or put up on a street corner.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>Is this the art style that will always be used?</h2>
           <p>
-            Each drop from the Decentrazine Project will have a different artist
-            and different style of art. While some artists may work with us more
-            than once, you can generally expect a wildly different array of
-            styles and influences. This is likely to be the only, or one of the
-            only, zineart drops.
+          Each drop from the Decentrazine Project will have a different artist and different style of art. While some artists may work with us more than once, you can generally expect a wildly different array of styles and influences. This is likely to be the only, or one of the only, zineart drops.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>What is the Decentrazine Project?</h2>
           <p>
-            The Decentrazine Project is an endeavor with the end goal of
-            exposing up and coming artists to a larger audience who is
-            explicitly looking for what they are trying to sell. Giving buyers
-            an easy place to find great new artists, and artists an easy place
-            to find a large group of buyers who would be interested in their
-            work.
+          The Decentrazine Project is an endeavor with the end goal of exposing up and coming artists to a larger audience who is explicitly looking for what they are trying to sell. Giving buyers an easy place to find great new artists, and artists an easy place to find a large group of buyers who would be interested in their work.
           </p>
         </FAQContainer>
 
@@ -97,59 +82,35 @@ const FAQ: React.FC = () => {
             around?
           </h2>
           <p>
-            There are a few major points of pride for us at The Decentrazine
-            Project compared to many other drops currently in the space.
+          There are a few major points of pride for us at The Decentrazine Project compared to many other drops currently in the space.
           </p>
           <p>
-            #1: We are a dedicated group of doxxed founders. We aren't working
-            on other NFT projects, we aren't trying to think of another way to
-            make more money. We are interested in this project and this project
-            only in the NFT space.
+          #1: We are a dedicated group of doxxed founders.
           </p>
           <p>
-            #2: Within our founders are people who have run successful
-            businesses in other spaces. It's not our first company, and intend
-            to bring more professionalism and preparedness than most projects
-            currently in the space.
+          #2: Within our founders are people who have run successful businesses in other spaces. It's not our first company, and intend to bring more professionalism and preparedness than most projects currently in the space.
           </p>
           <p>
-            #3: The utility of a Decentrazine is up front and easy to
-            understand. No promises of future utility that may not exist. The
-            utility is as a ticket to the rest of the project, and the rest of
-            the project is laid out and easy to understand, nothing theoretical.
+          #3: The utility of a Decentrazine is up front and easy to understand. No promises of future utility that may not exist. The utility is as a ticket to the rest of the project, and the rest of the project is laid out and easy to understand, nothing theoretical.
           </p>
           <p>
-            #4: The reason for an increase in valuation is obvious and easy to
-            understand. Why might a Decentrazine be more valuable in a week than
-            it is now? Because there is going to be art released by exciting up
-            and coming artists and without a Decentrazine you can't buy it. Once
-            again, nothing abstract and theoretical.
+          #4: The reason for an increase in valuation is obvious and easy to understand. Why might a Decentrazine be more valuable in a week than it is now? Because there is going to be art released by exciting up and coming artists and without a Decentrazine you can't buy it. Additionally, the price if a Decentrazine can never be worth less than its stake in the community wallet, which will rise automatically with each drop. Once again, nothing abstract and theoretical.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>Are there royalties on Decentrazine projects?</h2>
           <p>
-            The majority of Decentrazine Project drops will not have royalties.
-            We want artists to reap the majority of the rewards for their
-            projects, and us taking royalties on their work wouldn't make any
-            sense. The projects that will include a royalty percentage are the
-            few projects made by those that work for the company. When royalties
-            exist, they will be below the industry standard.
+          The majority of Decentrazine Project drops will not have royalties. We want artists to reap the majority of the rewards for their projects, and us taking royalties on their work wouldn't make any sense. The projects that will include a royalty percentage are the few projects made by those that work for the company. When royalties exist, they will be below the industry standard.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>
-            Do I own the art commercially for my Decentrazine or future
-            Decentrazine projects?
+          Do I own the art commercially for my Decentrazine or future Decentrazine projects?
           </h2>
           <p>
-            This is something we leave entirely to the artists. Each drop will
-            be different in this respect and entirely at the will of the artist
-            who created the drop. Some will give you full license to use, others
-            will not. The Decentrazine Project will not take any ownership
-            rights away from artists either.
+          This is something we leave entirely to the artists. Each drop will be different in this respect and entirely at the will of the artist who created the drop. Some will give you full license to use, others will not. The Decentrazine Project will not take any ownership rights away from artists either.
           </p>
         </FAQContainer>
 
@@ -159,25 +120,14 @@ const FAQ: React.FC = () => {
             Decentrazine?
           </h2>
           <p>
-            Yes, absolutely, aside from the pre-created promotional pieces. When
-            you click generate, you will get a random Decentrazine and that is
-            true for everyone up to and including the founders. The promotional
-            pieces are unique and include traits that are not in the main drop,
-            to be easily identified.
+          Yes, absolutely, aside from the pre-created promotional pieces. When you click generate, you will get a random Decentrazine and that is true for everyone up to and including the founders. The promotional pieces are unique and include traits that are not in the main drop, to be easily identified.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>What is The Clash?</h2>
           <p>
-            While we are keeping most of the secrets to The Clash close to the
-            vest for now, its safe to say that it is a large-scale interactive
-            game for members of the Decentrazine community. It will have facets
-            that can be done online and facets that can be done in real life and
-            will yield prizes for the members who complete the tasks. We
-            consider The Clash a fun thank-you for people who participated in
-            the first drop and hope to change some lives with it, but it is not
-            a major function of the Decentrazine Project.
+          While we are keeping most of the secrets to The Clash close to the vest for now, its safe to say that it is a large-scale interactive game for members of the Decentrazine community. It will have facets that can be done online and facets that can be done in real life and will yield prizes for the members who complete the tasks. We consider The Clash a fun thank-you for people who participated in the first drop and hope to change some lives with it, but it is not a major function of the Decentrazine Project.
           </p>
         </FAQContainer>
 
@@ -186,33 +136,14 @@ const FAQ: React.FC = () => {
             Do you already have other artists lined up for the future drops?
           </h2>
           <p>
-            Yes. The first few artists for the project are already tapped and
-            ready to go, but as time moves on we will be searching extensively
-            to continue adding talented artists for future drops.
-          </p>
-        </FAQContainer>
-
-        <FAQContainer>
-          <h2>
-            I see you have airdrops and IRL merch listed among the giveaways, is
-            there a time frame for that?
-          </h2>
-          <p>
-            We expect to have all giveaways and airdrops that are talked about
-            in the drop announcement completed within thirty days of their
-            threshholds being hit.
+          Yes. The first few artists for the project are already tapped and ready to go, but as time moves on we will be searching extensively to continue adding talented artists for future drops.
           </p>
         </FAQContainer>
 
         <FAQContainer>
           <h2>How will the IRL merch giveaways work?</h2>
           <p>
-            When the first drop hits the threshholds required for IRL merch
-            giveaways, we will send out IRL merch NFTs to random holders. Our
-            website will have an area where you can go and enter your
-            information and send that NFT back to us in return for IRL merch. If
-            you aren't really interested in the IRL merch, you can sell your
-            merch token to someone who is!
+          When the first drop hits the threshholds required for IRL merch giveaways, we will send out IRL merch NFTs to random holders. You'll merely have to send those tokens back to us and provide us the information needed to send it. If you aren't really interested in the IRL merch, you can sell your merch token to someone who is!
           </p>
         </FAQContainer>
       </PageContent>

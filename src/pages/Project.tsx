@@ -32,75 +32,25 @@ const Project: React.FC = () => {
       <PageContent>
         <PageTitle>The Decentrazine Project</PageTitle>
         <p>
-          The goal of the Decentrazine project can be most easily broken down
-          into four major values:
+        The goal of the Decentrazine project can be most easily broken down into five major values:
         </p>
         <p>
-          #1: Search out and expand the reach of promising non-traditional
-          artists, allowing them access to a group of avid and enthusiastic
-          buyers from around the world. Anyone in any realm knows the struggle
-          of being or knowing an extremely talented person and just not being
-          able to get the word out to the world.
+        #1: Search out promising undiscovered artists and allow them access to a group of enthusiastic buyers.
         </p>
         <p>
-          #2: Provide an exclusive marketplace for fans of non-traditional art
-          to get early looks at emerging artists and acquire their early pieces.
-          In the upcoming years there will be thousands upon thousands of
-          artists releasing pieces via a variety of mediums in the NFT world. It
-          can already be hard enough to keep up with the multitude of daily
-          drops and often impossible to find what you are really looking for.
+        #2: Provide an easy way for collectors to find undiscovered artists and acquire early pieces at reasonable prices.
         </p>
         <p>
-          The Decentrazine Project's aim is to not only create a place where you
-          can easily find the type of art that you enjoy, but to also make sure
-          that that art is easy to access and exclusive to you and others like
-          you. We expect to host a wide variety of different styles of both art
-          and dispersion. Everything from hand crafted 1/1s to ten thousand
-          count generative projects and everything in between.
+        #3: Create an easy mechanism for symbiotic relationships between emerging artists and collectors.
         </p>
         <p>
-          #3: Create a symbiotic environment for large groups of both investors
-          and artists, allowing them to fuse their interests and create
-          opportunities for mutual benefit. There is nothing that so truly says
-          “Art” as allowing a passionate patron to support an artist through
-          exposure and marketplace validity while also allowing the artist to
-          reward that patron for their faith with exclusive perks and additional
-          pieces. That is at the heart of The Decentrazine Project. To allow a
-          collector to raise the value of an artist through their faith and to
-          have that artist be able to thank the collectors with exclusive
-          content or additional market flow.
+        #4: Make sure all releases align completely with the wishes of the artist while still offering any support and advice that the Decentrazine Project staff can offer.
         </p>
         <p>
-          #4: Continue the proud non-traditional art philosophy of freedom for
-          creators. Tailoring each release to its specific creator, their style
-          and their wants and needs. Too often in the arena of art, music,
-          television and film we see artists constrained by being forced into
-          company-sided contracts in return for exposure, often tying them up
-          for years or stifling some of their best work.
+        #5: Offer all holders a legitimate long term investment with concrete fundamentals and utility.
         </p>
         <p>
-          At The Decentrazine Project it is our foremost promise that we will
-          never have long-term contracts or further obligations. Artists work
-          with us entirely at their own discretion and according to the rules
-          that they themselves set in regards to the release and distribution of
-          their work. Ownership of all art will be between creators and buyers,
-          with Decentrazines keeping no rights or ownership of anything that
-          passes through our doors unless specified by the artist themselves.
-        </p>
-        <p>
-          #5: Support young artists and art programs around the world. 10% of
-          all sales from Decentrazines will go towards supporting teachers and
-          programs related to the arts at the grassroots level. After the first
-          drop we will take applications from teachers, schools and programs
-          looking for additional funding and donate at the ground level, helping
-          students in need to continue their education in the arts.
-        </p>
-        <p>
-          Those are the tenets by which we created the project. Creating
-          something that elevated every part of the chain was the foremost
-          intent for us and I think we've achieved it with this project. We hope
-          to see you for the drop, when details are announced in the near
-          future.
+        Those are the tenets by which we created the project. Creating something that elevated every part of the chain was the foremost intent for us and I think we've achieved it with this project. A project that not only helps artists but saves times for collectors and creates a legitimate long term investment for all involved.
         </p>
       </PageContent>
     </PageWrapper>
