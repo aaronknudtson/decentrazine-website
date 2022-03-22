@@ -47,6 +47,9 @@ const PageWrapper = styled.div`
 const Home: React.FC = () => {
   return (
     <PageWrapper>
+      <div className="message">
+        <h1>ZineWallet: Coming Soon</h1>
+      </div>
       <video
         style={{ width: "100%" }}
         autoPlay

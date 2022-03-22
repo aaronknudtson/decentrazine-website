@@ -118,7 +118,7 @@ const Navbar: React.FC = () => {
       <NavLogoWrapper to="/">
         <NavLogo src={Logo} alt="logo" />
       </NavLogoWrapper>
-      <NavLinkWrapper>
+      {/* <NavLinkWrapper>
         {LINKS.map(({ path, name }) => {
           return (
             <NavLink to={path} key={path}>
@@ -127,7 +127,7 @@ const Navbar: React.FC = () => {
           );
         })}
         <BuyButton to="/mint">BUY A ZINE</BuyButton>
-      </NavLinkWrapper>
+      </NavLinkWrapper> */}
       <NavLinkWrapper>
         <SocialLink
           href="https://discord.gg/Nt59wjWPff"

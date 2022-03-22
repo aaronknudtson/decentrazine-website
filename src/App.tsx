@@ -31,7 +31,7 @@ function App() {
       <div className="App">
         <Router>
           <Navbar />
-          <Route path="/drop">
+          {/* <Route path="/drop">
             <DropInfo />
           </Route>
           <Route path="/decentrazine">
@@ -54,13 +54,13 @@ function App() {
           </Route>
           <Route path="/UpcomingCollections">
             <UpcomingCollections />
-          </Route>
+          </Route> */}
           <Route path="/" exact>
             <Home />
           </Route>
-          <Route path="/community" exact>
+          {/* <Route path="/community" exact>
             <CommunityWallet />
-          </Route>
+          </Route> */}
           <Footer />
         </Router>
       </div>

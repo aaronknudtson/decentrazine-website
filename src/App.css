@@ -53,3 +53,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Coming Soon edit */
+.message {
+  position: absolute;
+  top: 10%;
+  background-image: url(./images/bg.jpg);
+  border-radius: 25px;
+}
+h1 {
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: 900;
+  font-size: 14vh;
+  text-align: center;
+  color: rgb(48, 48, 48);
+  font-style: normal;
+  font-family: 'LeagueSpartan-Bold';
+}
