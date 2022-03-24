@@ -1,19 +1,19 @@
-import React from "react";
+// import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { Web3ReactProvider } from "@web3-react/core";
 import { Web3Provider } from "@ethersproject/providers";
-import DropInfo from "./pages/DropInfo";
-import FAQ from "./pages/FAQ";
+// import DropInfo from "./pages/DropInfo";
+// import FAQ from "./pages/FAQ";
 import Home from "./pages/Home";
-import Merch from "./pages/Merch";
-import Project from "./pages/Project";
-import Team from "./pages/Team";
+// import Merch from "./pages/Merch";
+// import Project from "./pages/Project";
+// import Team from "./pages/Team";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import Terms from "./pages/Terms";
-import Mint from "./pages/Mint";
-import UpcomingCollections from "./pages/UpcomingCollections";
-import CommunityWallet from "./pages/CommunityWallet";
+// import Terms from "./pages/Terms";
+// import Mint from "./pages/Mint";
+// import UpcomingCollections from "./pages/UpcomingCollections";
+// import CommunityWallet from "./pages/CommunityWallet";
 
 
 import "bootstrap/dist/css/bootstrap.min.css";

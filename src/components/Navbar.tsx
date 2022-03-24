@@ -27,17 +27,17 @@ const NavLinkWrapper = styled.div`
   justify-content: space-between;
 `;
 
-const NavLink = styled(Link)`
-  font-size: 16px;
-  color: inherit;
-  text-decoration: none;
-  margin-left: 16px;
-  margin-right: 16px;
+// const NavLink = styled(Link)`
+//   font-size: 16px;
+//   color: inherit;
+//   text-decoration: none;
+//   margin-left: 16px;
+//   margin-right: 16px;
 
-  &:hover {
-    color: ${COLORS.orange};
-  }
-`;
+//   &:hover {
+//     color: ${COLORS.orange};
+//   }
+// `;
 
 const NavLogo = styled.img`
   width: 175px;
@@ -62,55 +62,55 @@ const SocialLink = styled.a`
   }
 `;
 
-const BuyButton = styled(Link)`
-  background-color: ${COLORS.red};
-  color: white;
-  padding-left: 22px;
-  padding-right: 22px;
-  width: 175px;
-  height: 48px;
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 48px;
-  margin-left: 16px;
+// const BuyButton = styled(Link)`
+//   background-color: ${COLORS.red};
+//   color: white;
+//   padding-left: 22px;
+//   padding-right: 22px;
+//   width: 175px;
+//   height: 48px;
+//   text-decoration: none;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   border-radius: 48px;
+//   margin-left: 16px;
 
-  &:hover {
-    color: white;
-  }
-`;
+//   &:hover {
+//     color: white;
+//   }
+// `;
 
-const LINKS = [
-  {
-    path: "/decentrazine",
-    name: "Decentrazine Project",
-  },
-  {
-    path: "/drop",
-    name: "Drop Info",
-  },
-  {
-    path: "/team",
-    name: "The Team",
-  },
-  {
-    path: "/merch",
-    name: "Merch Redemption",
-  },
-  {
-    path: "/faq",
-    name: "FAQ",
-  },
-  {
-    path: "/community",
-    name: "Community Wallet",
-  },
-  {
-    path: "/upcomingcollections",
-    name: "Upcoming Collections",
-  },
-];
+// const LINKS = [
+//   {
+//     path: "/decentrazine",
+//     name: "Decentrazine Project",
+//   },
+//   {
+//     path: "/drop",
+//     name: "Drop Info",
+//   },
+//   {
+//     path: "/team",
+//     name: "The Team",
+//   },
+//   {
+//     path: "/merch",
+//     name: "Merch Redemption",
+//   },
+//   {
+//     path: "/faq",
+//     name: "FAQ",
+//   },
+//   {
+//     path: "/community",
+//     name: "Community Wallet",
+//   },
+//   {
+//     path: "/upcomingcollections",
+//     name: "Upcoming Collections",
+//   },
+// ];
 
 const Navbar: React.FC = () => {
   return (
